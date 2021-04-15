@@ -1,8 +1,28 @@
 img{
     width: 620px;
     height: 378px;
-    display: table;
+}
+div{
+    text-align: center;
 }
 iframe{
-    display: table;
+    text-align: center;
+}
+body{
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+    background-attachment: fixed;
+    background-color:dodgerblue;
+    background-size: 1000%, 100%;
+    background-position: center;
+}
+p{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.link{
+    height: 50px;
+    width: auto;
 }
